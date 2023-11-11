@@ -15,5 +15,7 @@ The project also includes localization for English and Portuguese (PT-BR) using 
 ## Useful resources
 
 https://medium.com/@pinarkocak/understanding-viper-pattern-619fa9a0b1f1
+
 https://theswiftdev.com/the-ultimate-viper-architecture-tutorial/
+
 https://www.youtube.com/watch?v=hFLdbWEE3_Y
